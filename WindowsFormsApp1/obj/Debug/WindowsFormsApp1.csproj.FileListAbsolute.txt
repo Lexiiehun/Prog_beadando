@@ -1,0 +1,12 @@
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Pizzazo.mdf
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Pizzazo_log.ldf
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\mod.xml
+C:\Users\Eni\Desktop\Prog2Beadandó\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
